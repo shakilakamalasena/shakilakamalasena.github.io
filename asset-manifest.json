@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bf2726c9.css",
-    "main.js": "/static/js/main.377a989d.js",
+    "main.js": "/static/js/main.7937c6ae.js",
     "static/media/about.jpeg": "/static/media/about.ba7164d578b12d8d0347.jpeg",
     "static/media/Animal Health Tracker.png": "/static/media/Animal Health Tracker.7ca4d760a4eaa39ba6ab.png",
     "static/media/About2.jpg": "/static/media/About2.736d012442fc0545a205.jpg",
@@ -9,10 +9,10 @@
     "static/media/Shakila-Cv.pdf": "/static/media/Shakila-Cv.e83747cf513e0b21a7f1.pdf",
     "index.html": "/index.html",
     "main.bf2726c9.css.map": "/static/css/main.bf2726c9.css.map",
-    "main.377a989d.js.map": "/static/js/main.377a989d.js.map"
+    "main.7937c6ae.js.map": "/static/js/main.7937c6ae.js.map"
   },
   "entrypoints": [
     "static/css/main.bf2726c9.css",
-    "static/js/main.377a989d.js"
+    "static/js/main.7937c6ae.js"
   ]
 }
