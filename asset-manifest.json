@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed67efa7.css",
-    "main.js": "/static/js/main.29463e6c.js",
+    "main.css": "/static/css/main.968b2e09.css",
+    "main.js": "/static/js/main.dd357b9a.js",
     "static/media/about.jpeg": "/static/media/about.ba7164d578b12d8d0347.jpeg",
     "static/media/Animal Health Tracker.png": "/static/media/Animal Health Tracker.7ca4d760a4eaa39ba6ab.png",
     "static/media/About2.jpg": "/static/media/About2.736d012442fc0545a205.jpg",
@@ -9,11 +9,11 @@
     "static/media/TaskMate.png": "/static/media/TaskMate.d7bb2262a6f36c486b4c.png",
     "static/media/Shakila-Cv.pdf": "/static/media/Shakila-Cv.e83747cf513e0b21a7f1.pdf",
     "index.html": "/index.html",
-    "main.ed67efa7.css.map": "/static/css/main.ed67efa7.css.map",
-    "main.29463e6c.js.map": "/static/js/main.29463e6c.js.map"
+    "main.968b2e09.css.map": "/static/css/main.968b2e09.css.map",
+    "main.dd357b9a.js.map": "/static/js/main.dd357b9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed67efa7.css",
-    "static/js/main.29463e6c.js"
+    "static/css/main.968b2e09.css",
+    "static/js/main.dd357b9a.js"
   ]
 }
