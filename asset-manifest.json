@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1f71fbcd.css",
-    "main.js": "/static/js/main.24311718.js",
+    "main.js": "/static/js/main.465d1e1b.js",
     "static/media/about.jpeg": "/static/media/about.ba7164d578b12d8d0347.jpeg",
     "static/media/GreenBin.png": "/static/media/GreenBin.4b84306d1e8f5c46e135.png",
     "static/media/Animal Health Tracker.png": "/static/media/Animal Health Tracker.7ca4d760a4eaa39ba6ab.png",
@@ -12,10 +12,10 @@
     "static/media/Shakila-Cv.pdf": "/static/media/Shakila-Cv.e83747cf513e0b21a7f1.pdf",
     "index.html": "/index.html",
     "main.1f71fbcd.css.map": "/static/css/main.1f71fbcd.css.map",
-    "main.24311718.js.map": "/static/js/main.24311718.js.map"
+    "main.465d1e1b.js.map": "/static/js/main.465d1e1b.js.map"
   },
   "entrypoints": [
     "static/css/main.1f71fbcd.css",
-    "static/js/main.24311718.js"
+    "static/js/main.465d1e1b.js"
   ]
 }
